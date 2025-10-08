@@ -2,20 +2,19 @@
 
 
 ### 💻 Обо мне  
-- Студент 1 курса НИУ ВШЭ (направление «Прикладная математика и информатика»), поступил с баллами 90+ по всем предметам.  
-- Активно занимаюсь самообразованием: QA, разработка ПО, мобильные приложения, игры, веб-разработка, машинное обучение, Data Science.  
-- Быстро осваиваю новые технологии и стремлюсь к углублению знаний.  
+- Студент 2 курса ПМИ ВШЭ (2024-2028).
+- Тестировщик в YADRO (с 08.07.2025) ([см. статью](https://habr.com/ru/companies/yadro/articles/952886/#vladimir)).
+- Активно занимаюсь самообразованием: Data Science, QA, Web Development.  
 
 ---
 
 ### 🛠 Навыки  
-**Языки программирования:**  
-- **Python** (углублённый) — Django, Flask, NumPy, Pandas.  
-- **Go** (базовый) — GTK, net.  
-- **C++** (базовый) — OpenGL, GLM.  
-- **C#** (базовый) — Unity.  
-- **Node.js/JS** (базовый) — Express, Sequelize.  
-- HTML/CSS, LaTeX.  
+- Python, C++, GO, Node JS,
+- Postman, Bruno, Fiddler
+- Docker, Docker-compose, Jenkins, MQTT, RabbitMQ,
+- PostgreSQL, SQLite, MongoDB
+- CLI
+---
 
 📫 **Связь:**  
 [![Telegram](https://img.shields.io/badge/Telegram-emelvv-blue)](https://t.me/emelvv)  
