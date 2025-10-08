@@ -9,9 +9,9 @@
 ---
 
 ### 🛠 Навыки  
-- Python, C++, GO, Node JS,
+- Python, C++, GO, Node JS
 - Postman, Bruno, Fiddler
-- Docker, Docker-compose, Jenkins, MQTT, RabbitMQ,
+- Docker, Docker-compose, Jenkins, MQTT, RabbitMQ
 - PostgreSQL, SQLite, MongoDB
 - CLI
 ---
