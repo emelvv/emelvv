@@ -1,16 +1,13 @@
-## Hi there 👋
+# Emelianov
 
-<!--
-**emelvv/emelvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💻 About Me  
+- Student in Applied Mathematics and Information Science at HSE (2024-2028).
+- AQA Engineer at YADRO (2025-2026) ([page](https://habr.com/ru/companies/yadro/articles/952886/#vladimir)).
+- C++ Developer at YANDEX (2026)
+- Actively focused on self-education in ML, Development and DevOps.  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact:**  
+[![Telegram](https://img.shields.io/badge/Telegram-emelvv-blue)](https://t.me/emelvv)  
+[![Email](https://img.shields.io/badge/Email-vmemelianov0906@gmail.com-red)](mailto:vmemelianov0906@gmail.com)
